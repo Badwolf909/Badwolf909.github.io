@@ -1,5 +1,5 @@
 <form method="GET">
-	Название 		        	<input name = "name" type="text" required><br>
+	Hello new branch 		        	<input name = "name" type="text" required><br>
 	Протяженность (км)			<input name = "dlina" type="int" required pattern [0-9]{7}><br>
 	Куда впадает				<input name = "in" type="text" required><br>
 	Годовой сток (куб.км)		<input name = "address" type = "int" required><br>
